@@ -1,0 +1,12 @@
+# images
+*.png
+
+# cpp utils
+*/**/*.exe
+*/**/*.ilk
+*/**/*.obj
+*/**/*.exe
+*/**/*.pdb
+
+#.vs code utils
+.vscode
