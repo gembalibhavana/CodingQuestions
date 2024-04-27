@@ -1,0 +1,5 @@
+public class FastExponentation_bhavana{
+    public static void main(String[] args){
+        System.out.println("Hey")
+    }
+}
